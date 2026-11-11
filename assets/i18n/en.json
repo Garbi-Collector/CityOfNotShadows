@@ -1,0 +1,30 @@
+{
+  "menu.level": "LEVEL",
+
+  "stat.STRENGTH": "STR",
+  "stat.DEXTERITY": "DEX",
+  "stat.CONSTITUTION": "CON",
+  "stat.INTELLIGENCE": "INT",
+  "stat.WISDOM": "WIS",
+  "stat.CHARISMA": "CHA",
+
+  "mood.NEUTRAL.name": "NEUTRAL",
+  "mood.NEUTRAL.description": "Kai is calm, with nothing in particular on their mind.",
+  "mood.HAPPY.name": "HAPPY",
+  "mood.HAPPY.description": "Kai smiles for no apparent reason... or for too many reasons.",
+  "mood.SAD.name": "SAD",
+  "mood.SAD.description": "Kai stares at the floor and says nothing. Better not to ask.",
+  "mood.ANGRY.name": "ANGRY",
+  "mood.ANGRY.description": "Kai clenches their fists. Something bothered them and they won't forget it.",
+  "mood.SCARED.name": "SCARED",
+  "mood.SCARED.description": "Kai looks around. Every shadow seems suspicious.",
+  "mood.BLUSHING.name": "BLUSHING",
+  "mood.BLUSHING.description": "Kai is completely red, no one knows why... or for whom",
+
+  "dialogue.intro": [
+    "Test dialogue 1. This is the first comment of the opening scene.",
+    "Test dialogue 2. Here is another comment to test advancing with Z.",
+    "Test dialogue 3. Last test comment before the sequence.",
+    "Fibonacci sequence (20 iterations): 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765."
+  ]
+}

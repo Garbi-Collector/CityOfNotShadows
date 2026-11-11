@@ -1,0 +1,30 @@
+{
+  "menu.level": "NIVEL",
+
+  "stat.STRENGTH": "FUE",
+  "stat.DEXTERITY": "DES",
+  "stat.CONSTITUTION": "CON",
+  "stat.INTELLIGENCE": "INT",
+  "stat.WISDOM": "SAB",
+  "stat.CHARISMA": "CAR",
+
+  "mood.NEUTRAL.name": "NEUTRAL",
+  "mood.NEUTRAL.description": "Kai está tranquilo, sin nada particular en la cabeza.",
+  "mood.HAPPY.name": "FELIZ",
+  "mood.HAPPY.description": "Kai sonríe sin motivo aparente... o con demasiados motivos.",
+  "mood.SAD.name": "TRISTE",
+  "mood.SAD.description": "Kai mira al suelo y no dice nada. Mejor no preguntar.",
+  "mood.ANGRY.name": "ENOJADO",
+  "mood.ANGRY.description": "Kai aprieta los puños. Algo le molestó y no piensa olvidarlo.",
+  "mood.SCARED.name": "ASUSTADO",
+  "mood.SCARED.description": "Kai mira a todos lados. Cualquier sombra le parece sospechosa.",
+  "mood.BLUSHING.name": "SONROJADO",
+  "mood.BLUSHING.description": "Kai está completamente rojo, vaya uno a saber porque... o por quien",
+
+  "dialogue.intro": [
+    "Diálogo de prueba 1. Este es el primer comentario de la escena inicial.",
+    "Diálogo de prueba 2. Aquí va otro comentario para probar el avance con Z.",
+    "Diálogo de prueba 3. Último comentario de prueba antes de la secuencia.",
+    "Secuencia de Fibonacci (20 iteraciones): 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765."
+  ]
+}
